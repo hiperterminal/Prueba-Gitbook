@@ -1,4 +1,4 @@
 # Mi libro: una introducción
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Esta es la introducción de un libro escrito en GitBook. Este texto debería poder exportarse a múltiples formatos, como HTML o epub.
 

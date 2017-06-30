@@ -1,2 +1,2 @@
-Aquí mi artículo
+Éste es mi primer artículo.
 

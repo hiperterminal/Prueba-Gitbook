@@ -4,7 +4,7 @@
 
 * [Introducción](README.md)
 * [Primer artículo](primer-articulo.md)
-* Artículo 1
+* [Artículo 2](articulo-1.md)
 
 ## Parte de prueba
 
