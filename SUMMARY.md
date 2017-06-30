@@ -9,5 +9,5 @@
 ## Parte de prueba
 
 * [Primer capítulo](chapter1.md)
-* Artículo 2
+* [Artículo 2](articulo-2.md)
 
